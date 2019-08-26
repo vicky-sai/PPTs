@@ -15,3 +15,5 @@ https://tinyurl.com/spring-test-vatsan
 https://tinyurl.com/maven-vatsan
 
 Books: https://goalkicker.com/
+
+https://www.analyticsindiamag.com/10-free-ebooks-read-on-data-science/
