@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Micro Service - https://tinyurl.com/microservice-vatsan
 
 Spring Boot - http://bit.ly/vatsan_springBoot1
@@ -17,3 +18,29 @@ https://tinyurl.com/maven-vatsan
 Books: https://goalkicker.com/
 
 https://www.analyticsindiamag.com/10-free-ebooks-read-on-data-science/
+
+http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=downloadman&upname=book-20160121.pdf
+
+DevOps: http://tinyurl.com/y6yjpzma
+=======
+Micro Service - https://tinyurl.com/microservice-vatsan
+
+Spring Boot - http://bit.ly/vatsan_springBoot1
+
+http://bit.ly/nodeIntro_vatsan
+
+https://tinyurl.com/rabbitMQ-vatsan
+
+https://tinyurl.com/spring-data-sql-vatsab
+
+http://tinyurl.com/spring-data-nonsql-vatsan
+
+https://tinyurl.com/spring-test-vatsan
+
+https://tinyurl.com/maven-vatsan
+
+Books: https://goalkicker.com/
+
+https://www.analyticsindiamag.com/10-free-ebooks-read-on-data-science/
+
+Devops: http://tinyurl.com/y6yjpzma
